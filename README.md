@@ -1,0 +1,1 @@
+Projeto em Power BI para analisar o comportamento de compra de clientes. Inclui dados demográficos, desempenho de campanhas, canais de compra e perfil de gastos. O objetivo é otimizar estratégias de marketing e identificar oportunidades de vendas. Abra o arquivo .pbix no Power BI Desktop, atualize os dados e explore os relatórios interativos. 🚀
